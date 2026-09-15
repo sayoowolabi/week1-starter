@@ -416,10 +416,19 @@ For this bind-mounted development setup, Django normally reloads Python and temp
 Submit the project repository, excluding `.env`, and provide screenshots showing:
 
 1.  `docker compose ps` with the PostGIS health check passing.
+<img width="953" height="95" alt="Screenshot 2026-09-15 143243" src="https://github.com/user-attachments/assets/f694ce38-cd05-4470-9199-9186d7de801d" />
+
 2.  The Hello Map in the browser.
-3.  pgAdmin connected to the `Hello Map PostGIS` server.
-4.  The result of `SELECT PostGIS_Version();`.
-5.  The Django admin site with your administrator account.
+<img width="2253" height="1348" alt="image" src="https://github.com/user-attachments/assets/8bc94450-34ec-4aaf-903b-6b1774460a68" />
+
+4.  pgAdmin connected to the `Hello Map PostGIS` server.
+<img width="1127" height="462" alt="Screenshot 2026-09-15 143431" src="https://github.com/user-attachments/assets/0209fd71-2a0f-4bcb-a415-99ca6f5305b6" />
+
+5.  The result of `SELECT PostGIS_Version();`.
+<img width="479" height="271" alt="Screenshot 2026-09-15 142942" src="https://github.com/user-attachments/assets/544932c8-a266-4ea3-afef-f5fb2c0c8f6b" />
+
+6.  The Django admin site with your administrator account.
+<img width="1127" height="602" alt="Screenshot 2026-09-15 143716" src="https://github.com/user-attachments/assets/a1287086-d9dd-4025-8757-42321c61e365" />
 
 ## Troubleshooting
 
